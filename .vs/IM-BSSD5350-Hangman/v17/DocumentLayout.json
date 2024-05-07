@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\il_ma\\Desktop\\Game Development\\IM-BSSD5350-Hangman\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B952D22-FE65-8332-3B53-59203308AEAF}|Assembly-CSharp.csproj|c:\\users\\il_ma\\desktop\\game development\\im-bssd5350-hangman\\assets\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B952D22-FE65-8332-3B53-59203308AEAF}|Assembly-CSharp.csproj|solutionrelative:assets\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameController.cs",
+              "DocumentMoniker": "C:\\Users\\il_ma\\Desktop\\Game Development\\IM-BSSD5350-Hangman\\Assets\\GameController.cs",
+              "RelativeDocumentMoniker": "Assets\\GameController.cs",
+              "ToolTip": "C:\\Users\\il_ma\\Desktop\\Game Development\\IM-BSSD5350-Hangman\\Assets\\GameController.cs",
+              "RelativeToolTip": "Assets\\GameController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T10:13:08.696Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
